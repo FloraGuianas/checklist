@@ -1,4 +1,4 @@
-# Background
+## Background
 This repository contains the source data and code to compile a checklist of flowering plants recorded in the Guianas (Guyana, Suriname, and French Guiana). It was developed for [Flora of the Guianas Consortium]( https://www.naturalis.nl/en/science/flora-of-guianas).
 
 ## Workflow
