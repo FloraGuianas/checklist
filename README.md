@@ -6,10 +6,10 @@ Data retrieval → Data processing → Data cleaning → Mapping to Darwin Core 
 
 **1. Data retrieval**
 
-Plants of the World (POWO); Tropicos; World Flora Online (WFO); Global Biodiversity Information Facility (GBIF)
+Plants of the World ([POWO](https://rpubs.com/Juliana_Stropp_Carneiro/1395095)); Tropicos; World Flora Online (WFO); Global Biodiversity Information Facility (GBIF)
 Herbarium University of Guyana (BRG); National Herbarium of Suriname (BBS); Flora of the Guianas.
 
-**2. Processing**
+**2. Data processing**
 
 Plants of the World (POWO); Tropicos; World Flora Online (WFO); Global Biodiversity Information Facility (GBIF).
 
