@@ -28,9 +28,9 @@ Herbarium University of Guyana (BRG); National Herbarium of Suriname (BBS); Flor
 
 **7. Indicators** 
 
-[content quality](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf191/8442886)
+[Content quality](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf191/8442886)
 
-[governance](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf071/8443372)
+[Governance](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf071/8443372)
 
 ## Published dataset
 [Dataset on GBIF]( https://www.gbif.org/data-quality-requirements-checklists)
