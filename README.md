@@ -6,8 +6,23 @@ Data retrieval → Data processing → Data cleaning → Mapping to Darwin Core 
 
 **1. Data retrieval**
 
-Plants of the World ([POWO](https://rpubs.com/Juliana_Stropp_Carneiro/1395095)); Tropicos; World Flora Online (WFO); Global Biodiversity Information Facility (GBIF)
-Herbarium University of Guyana (BRG); National Herbarium of Suriname (BBS); Flora of the Guianas.
+Data were compiled from major databases, individual herbaria, and published fascicles of the Flora of the Guianas. The code used for data retrieval from each source is provided below.
+
+Plants of the World ([POWO](https://rpubs.com/Juliana_Stropp_Carneiro/1395095))
+
+Missouri Botanical Garden (Tropicos)
+
+World Flora Online (WFO) 
+
+Global Biodiversity Information Facility (GBIF)
+
+Herbarium University of Guyana (BRG)
+
+National Herbarium of Suriname (BBS)
+
+Flora of the Guianas
+
+
 
 **2. Data processing**
 
