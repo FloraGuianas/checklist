@@ -14,7 +14,7 @@ Missouri Botanical Garden (Tropicos)
 
 World Flora Online (WFO) 
 
-Global Biodiversity Information Facility (GBIF)
+Global Biodiversity Information Facility ([GBIF](https://rpubs.com/Juliana_Stropp_Carneiro/1396216))
 
 Herbarium University of Guyana (BRG)
 
