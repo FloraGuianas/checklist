@@ -10,7 +10,7 @@ Data were compiled from major databases, individual herbaria, and published fasc
 
 Plants of the World ([POWO](https://rpubs.com/Juliana_Stropp_Carneiro/1395095))
 
-Missouri Botanical Garden (Tropicos)
+Missouri Botanical Garden ([Tropicos](https://rpubs.com/Juliana_Stropp_Carneiro/1396948))
 
 World Flora Online (WFO) 
 
