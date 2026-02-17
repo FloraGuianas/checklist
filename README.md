@@ -1,5 +1,5 @@
 ## Background
-This repository contains the source data and code to compile a checklist of flowering plants recorded in the Guianas (Guyana, Suriname, and French Guiana). It was developed for [Flora of the Guianas Consortium]( https://www.naturalis.nl/en/science/flora-of-guianas).
+This repository contains the source data and code to compile a checklist of flowering plants recorded in the Guianas (Guyana, Suriname, and French Guiana). It was developed for [Flora of the Guianas Consortium](https://portal.cybertaxonomy.org/flora-guianas/node/1)
 
 ## Workflow
 Data retrieval → Data processing → Data cleaning → Mapping to Darwin Core → Data integration → Manual quality control → Indicators of [content quality](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf191/8442886) and [governance](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biaf071/8443372)
